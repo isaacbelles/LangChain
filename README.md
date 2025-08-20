@@ -1,4 +1,4 @@
-# LangChain Examples
+# LangChain Exemplos
 
 Este repositório contém exemplos práticos de uso da biblioteca **LangChain** com modelos da **OpenAI**, mostrando diferentes formas de criar:
 
